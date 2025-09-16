@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/dbd770bd-56fa-4c1c-abf5-a7c9fbdc0c54" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d4286e76-5bb3-4031-8765-bc9553d4f7cb" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/72171291-b6d7-4f23-a636-ee4b7697270f" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
