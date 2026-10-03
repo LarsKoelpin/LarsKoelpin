@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
-[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/d4286e76-5bb3-4031-8765-bc9553d4f7cb)
-[![AWS Certified Advanced Networking – Specialty](https://images.credly.com/size/80x80/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png)](https://www.credly.com/badges/ed962da0-2dc1-44af-b54f-bc378253e21e)
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/c557ceaf-d4b1-464b-8942-39143df5bbae)
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/72171291-b6d7-4f23-a636-ee4b7697270f)
+<a href="https://www.credly.com/badges/d4286e76-5bb3-4031-8765-bc9553d4f7cb"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="64" height="64"></a>
+<a href="https://www.credly.com/badges/ed962da0-2dc1-44af-b54f-bc378253e21e"><img src="https://images.credly.com/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" alt="AWS Certified Advanced Networking – Specialty" width="64" height="64"></a>
+<a href="https://www.credly.com/badges/c557ceaf-d4b1-464b-8942-39143df5bbae"><img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="64" height="64"></a>
+<a href="https://www.credly.com/badges/72171291-b6d7-4f23-a636-ee4b7697270f"><img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="64" height="64"></a>
 <!--END_SECTION:badges-->
